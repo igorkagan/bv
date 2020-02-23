@@ -1,0 +1,26 @@
+
+FileVersion:                3
+
+CoordsType:                 TAL
+
+SubjectVOINamingConvention: <SUBJ>_<VOI>
+
+
+NrOfVOIs:                   1
+
+NameOfVOI:  shifted_x1
+ColorOfVOI: 169 214 115
+
+NrOfVoxels: 8
+-10 -11 15
+-10 -12 15
+-10 -11 14
+-11 -11 15
+-11 -12 15
+-11 -11 14
+-11 -12 14
+-10 -12 14
+
+
+NrOfVOIVTCs: 1
+D:/MRI/Florian/20100603/run1_Florian_100603.1276187915/FL_MEMSAC2DECIDE_run1_SCLAI_3DMCT_LTR_THP3c.vtc

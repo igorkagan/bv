@@ -1,0 +1,26 @@
+
+FileVersion:                3
+
+CoordsType:                 TAL
+
+SubjectVOINamingConvention: <VOI>_<SUBJ>
+
+
+NrOfVOIs:                   1
+
+NameOfVOI:  test2
+ColorOfVOI: 0 255 127
+
+NrOfVoxels: 8
+-45 -37 7
+-45 -38 7
+-45 -37 6
+-46 -37 7
+-46 -38 7
+-46 -37 6
+-46 -38 6
+-45 -38 6
+
+
+NrOfVOIVTCs: 1
+D:/MRI/Florian/20100603/run1_Florian_100603.1276187915/FL_MEMSAC2DECIDE_run1_SCLAI_3DMCT_LTR_THP3c.vtc
