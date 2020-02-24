@@ -1,4 +1,4 @@
-function avgpred = read_avg(FullName)
+function avgpred = bv_read_avg(FullName)
 % read .avg format version 3
 
 disp(['processing ' FullName]);

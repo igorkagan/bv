@@ -5,7 +5,7 @@ function bvqxt_avg3to4(basedir, avg_filename, new_avg_filename)
 % bvqxt_avg3to4('D:\data\MRI\Florian\','D:\data\MRI\Florian\rLIPcan1\baseline__20081029_20081105_20081114_20081119_20081121_20081212.avg');
 
 
-avg = read_avg(avg_filename);
+avg = bv_read_avg(avg_filename);
 vtcs = unique([avg.usefile]);
 vtcs = vtcs(~cellfun('isempty', vtcs));
 
